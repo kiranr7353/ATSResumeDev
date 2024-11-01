@@ -31,12 +31,12 @@ body {
     gap: 8px;
 }
 .headerIcon {
-    font-size: 20px;
+    font-size: 18px;
     color: #a6c6ea !important;
 }
 .headerIconText {
     margin: 0 !important;
-    font-size: 18px;
+    font-size: 17px;
 }
 .professionalSumamry {
     padding: 2px 0 5px 25px;
@@ -52,6 +52,7 @@ body {
 }
 .headerStyle {
     color: blue;
+    font-size: 18px;
 }
 .paraStyle {
     margin-right: 25px;
