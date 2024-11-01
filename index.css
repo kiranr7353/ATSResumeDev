@@ -1,0 +1,64 @@
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header {
+    margin-top: -10px;
+}
+.fullname {
+    text-align: center;
+    font-size: 28px;
+}
+.firstRow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -30px;
+    gap: 18px;
+}
+.secondRow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 18px;
+}
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+.headerIcon {
+    font-size: 20px;
+    color: #a6c6ea !important;
+}
+.headerIconText {
+    margin: 0 !important;
+    font-size: 18px;
+}
+.professionalSumamry {
+    padding: 2px 0 5px 25px;
+}
+.skills, .professionalExperience, .education, .achievements, .certifications {
+    padding: 2px 0 5px 25px;
+    margin-top: -27px;
+}
+.borderBottom {
+    border-bottom: 1px solid;
+    margin-right: 30px;
+    margin-top: -15px;
+}
+.headerStyle {
+    color: blue;
+}
+.paraStyle {
+    margin-right: 25px;
+}
+.titleFlex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 25px;
+}
